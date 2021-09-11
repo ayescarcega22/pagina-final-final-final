@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 60px;
+	color: #FFFFFF;
+	padding-top: 80px;
+}
+
+body{
+	background-image: 
+url( "../imagenes/imagen.png");
+	height: 100%;
+	width: 100%;
+	
+}
+
+.piedepagina{
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	color: #000000;
+	padding-top: 500px;
+}
